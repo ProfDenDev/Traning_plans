@@ -1,5 +1,16 @@
-<svg width="243" height="224" viewBox="0 0 243 224" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="112" cy="112" r="112" fill="#48B84A" />
-            <circle cx="112" cy="112" r="103.5" fill="#48B84A" stroke="black" />
-            <circle cx="208" cy="50" r="34" fill="#48B84A" stroke="black" text="PLUS"/>
-          </svg>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <g>
+   <circle fill="#48B84A" r="112" cy="300" cx="397"/>
+   <circle stroke="black" fill="#48B84A" r="103.5" cy="300" cx="397"/>
+   <circle text="PLUS" stroke="black" fill="#48B84A" r="34" cy="238" cx="493"/>
+   <text fill="#ffffff" stroke-width="0" stroke-opacity="null" x="265.09381" y="146.05188" id="svg_1" font-size="6" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(3.47234 0 0 1.77935 -454.911 -18.3967)" stroke="black">PLUS</text>
+  </g>
+  <text transform="matrix(0.896032 0 0 2.86373 51.1315 -494.377)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="20" id="svg_2" y="262.69655" x="331.35319" stroke-width="0" fill="#000000">GET MORE</text>
+  <text transform="matrix(1 0 0 1.57921 0 -157.661)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="20" id="svg_4" y="285.56741" x="340" stroke-width="0" fill="#000000">BENEFIT BY</text>
+  <text transform="matrix(1 0 0 1.53792 0 -193.314)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="20" id="svg_6" y="365" x="327" stroke-width="0" fill="#000000">MEMBERSHIP</text>
+  <text transform="matrix(1.08844 0 0 1.48972 -31.2206 -131.335)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="20" id="svg_7" y="307.48058" x="352.08126" stroke-width="0" fill="#000000">JOINING</text>
+ </g>
+</svg>

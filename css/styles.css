@@ -110,6 +110,7 @@ body {
 
      .white {
       width: 1173px;
+      padding-top: 75px;
       /* padding-left: 171px;   */
         /* margin: auto; */
         font-size: 120px;
@@ -381,7 +382,7 @@ body {
     box-shadow: 0 4px 29px 0 #000;
     position: absolute;
     left: 1450px;
-    top: 200px;
+    top: 150px;
 
   
 
@@ -631,3 +632,5 @@ input{
   font: 400 100px / 125% var(--second-family);
   text-transform: uppercase;
 }
+
+.icon_b{ position: absolute;}
