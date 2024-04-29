@@ -24,6 +24,8 @@ body {
         width: 1543px;
         /* height: 115px; */
     }
+
+    .header1 svg{position: absolute;}
     nav {
        margin: auto;
         width: 921px auto;
